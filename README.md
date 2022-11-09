@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there, I'm Erick Mwangi 👋
 
-<!--
-**eriqck/eriqck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Shiftmed like app that
+      connects nurses with working shifts
+      
+- 🌱 I’m currently learning nextJS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on open source projects
+
+- 🤔 I’m looking for help with flutter
+
+- 💬 Ask me about javaScript, HTML, CSS, ReactJS, NextJS, 
+      Python technologies
+      
+- 📫 How to reach me: Twitter @Reekoz1
+- 😄 Pronouns: He
+- ⚡ Fun fact: spends 2hrs a day listening to music 😄
