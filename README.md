@@ -13,8 +13,8 @@ Hi there, I'm Erick Mwangi 👋
 - 💬 Ask me about javaScript, HTML, CSS, ReactJS, NextJS, 
       Python technologies
       
-- 📫 How to reach me: [Twitter @Reekoz1] (https://twitter.com/Reekoz1)
-      [Facebook] (https://www.facebook.com/erik.mwanginjoroge)
+- 📫 How to reach me: Twitter @Reekoz1 https://twitter.com/Reekoz1
+      Facebook https://www.facebook.com/erik.mwanginjoroge
       
 - 😄 Pronouns: He
 - ⚡ Fun fact: spends 2hrs a day listening to music
