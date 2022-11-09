@@ -18,5 +18,4 @@ Hi there, I'm Erick Mwangi 👋
       
 - 😄 Pronouns: He
 - ⚡ Fun fact: spends 2hrs a day listening to music
-- 
-- ![Eric's Github Stats](https://github-readme-stats.vercel.app/api?username=eriqck&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Eric's Github Stats](https://github-readme-stats.vercel.app/api?username=eriqck&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
