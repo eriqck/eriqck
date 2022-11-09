@@ -6,14 +6,15 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/reekoz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reekoz1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eric-mwangi-04553b142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eric-mwangi-04553b142" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/erik.mwanginjoroge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/erik.mwanginjoroge" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/coding_erik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/coding_erik/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucod_vhjpqqbglrilu2o7lpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucod_vhjpqqbglrilu2o7lpw" height="30" width="40" /></a>
-</p> <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+</p> 
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" margin-left: auto; margin-right:auto>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriqck&label=Profile%20views&color=0e75b6&style=flat" alt="eriqck" /> </p>
 
